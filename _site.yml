@@ -1,9 +1,15 @@
-name: "cat-website"
+name: "kalkulatory"
 navbar:
-  title: "My cats' website"
+  title: "Kalkulatori.io"
   left:
     - text: "Home"
       href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Gallery"
+      href: gallery.html
+
+
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<cats@catemail.com>

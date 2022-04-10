@@ -1,11 +1,11 @@
 ---
-title: "index"
+title: "about"
 author: "marin"
-date: "4/9/2022"
+date: "4/10/2022"
 output: html_document
 ---
 
-ovo će biti glavna stranica
+ovo će biti about stranica
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

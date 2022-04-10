@@ -1,11 +1,11 @@
 ---
-title: "index"
+title: "gallery"
 author: "marin"
-date: "4/9/2022"
+date: "4/10/2022"
 output: html_document
 ---
 
-ovo će biti glavna stranica
+ovo će biti galerija
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
